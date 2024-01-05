@@ -1,6 +1,8 @@
 # Welcome to Road to Web3!
 
-Hey there! Sneha and Sethu here, guiding you on your journey into the world of blockchain and decentralization.
+Hey There, This is  Sneha and Sethu. We are your official guides for Road to Web3
+
+So, you made it to the cohort . Great. Why don't we celebrate it with some good old tweets and posts?
 
 ## Kickoff: Let's Get Started
 
@@ -14,7 +16,7 @@ Having trouble? No worries, we've got your back. Check out this course for guida
 
 Stay in the loop and follow us on Twitter for the latest updates. Look for the quest **"Follow on Twitter"** to the right of your screen. If you can't see it, remember to click "View all".
 
-![Alt text for the GIF](https://media.giphy.com/media/nAdK7LSIzgkXS/giphy.gif)
+![tweet](https://media.giphy.com/media/nAdK7LSIzgkXS/giphy.gif)
 
 Done with the tweets ? Awesome. Now let's get down to business. 
 
@@ -25,6 +27,8 @@ The next step is to join our Discord server. Introduce yourself and become a par
 ### 4. Post Your Badge on Social Media
 
 If you haven't already shared your participation badge on social media, now's the time! Let everyone know you're on the Road to Web3.
+Here's the badge 
+![badge](https://metaschool.s3.ap-southeast-1.amazonaws.com/Other/R2W3/C2/Accepted+Badge.gif)
 
 ## Onboarding Call: Don't Miss Out
 
