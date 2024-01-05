@@ -27,7 +27,9 @@ The next step is to join our Discord server. Introduce yourself and become a par
 ### 4. Post Your Badge on Social Media
 
 If you haven't already shared your participation badge on social media, now's the time! Let everyone know you're on the Road to Web3.
+
 Here's the badge 
+
 ![badge](https://metaschool.s3.ap-southeast-1.amazonaws.com/Other/R2W3/C2/Accepted+Badge.gif)
 
 ## Onboarding Call: Don't Miss Out
