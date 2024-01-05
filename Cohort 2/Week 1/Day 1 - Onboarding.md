@@ -36,7 +36,7 @@ Here's the badge
 
 ### 5. Prepare for the Onboarding Call
 
-Get ready, set your reminders! Our onboarding call is scheduled for today at 8 PM IST. Make sure you're there: [Onboarding Call Link](<insert-link-here>).
+Get ready, set your reminders! Our onboarding call is scheduled for today at 8 PM IST. Make sure you're there: [Onboarding Call Link](https://plutwo.zoom.us/j/85744570443).
 
 ## Wrapping Up: Speak Like a Web3 Native
 
