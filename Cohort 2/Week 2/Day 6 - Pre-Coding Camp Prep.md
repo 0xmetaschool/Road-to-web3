@@ -1,10 +1,25 @@
-# Coding Camp Prerequisites
+# Discover the World of NFTs Beyond Digital Art
 
-Before we dive into building and deploying smart contracts, here's what you need:
+## Hey there,
 
-1. **Basic Understanding of JavaScript**: Most Ethereum libraries and tools are built on JavaScript.
-2. **Install Node.js**: JavaScript runtime essential for Ethereum development. [Node.js Installation Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-3. **Hardhat Setup**: For creating a local Ethereum network for development without incurring costs. [Hardhat Installation Guide](https://hardhat.org/hardhat-runner/docs/getting-started).
-4. **OpenZeppelin Contracts**: Smart contract library for secure and standardized contract development. [OpenZeppelin Installation](https://docs.openzeppelin.com/cli/2.6/getting-started).
+Thinking NFTs are just about those monkey pics? Think again, friend!
 
-Get these prerequisites ready, and you'll be set to start building your very own smart contract!
+![NFTs Beyond Monkey Pics](https://media1.giphy.com/media/3taYXLxSBOugHHjocB/giphy.gif?cid=7941fdc6wgtjip3wi6a2i59cobqvsbvaj6oajrz0tvuhlr92&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+We've got something special for you: a deep dive into NFTs (Non-Fungible Tokens) with a Metaschool course.
+
+NFTs are more than digital art; they're revolutionizing concepts of ownership, digital assets, and the future of the internet.
+
+![NFTs Changing the Game](https://media2.giphy.com/media/ho0xXatV7b3Fo1ZRXN/giphy.gif?cid=7941fdc6zsf8f6yctxeh841lot30goea9hf3bp72rlzugxh5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+This course is your gateway to understanding the potential of NFTs in various industries.
+
+### Ready to Explore NFTs?
+
+Are you ready to see what NFTs are really about? Check out the course here: [Learn Everything About NFTs](https://metaschool.so/courses/learn-everything-about-nfts).
+
+Dive in and join us in exploring the exciting world of NFTs!
+
+### Share Your Achievements
+
+Once you're done exploring, remember to share your course completion NFTs on [LinkedIn](https://www.linkedin.com/company/0xmetaschool/), [Twitter](https://twitter.com/0xmetaschool), and our [Discord](https://discord.com/invite/vbVMUwXWgc) server.
