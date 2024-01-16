@@ -34,18 +34,18 @@ You know what’s cooler than working on these ideas? Working on these ideas wit
 But...but...but, before you start with the team huddles, here are a few pointers to remember:
 
 - **Team Formation and Role Diversity**
-    - Teams should **consist of 3-5 members** or individuals **who can work solo.**
-    - Teams should **have members with specific roles** such as backend developers, frontend developers, Solidity developers, etc., to cover all areas of development.
+  - Teams should consist of 3-5 members or individuals who can work solo.
+  - Teams should have members with specific roles such as backend developers, frontend developers, Solidity developers, etc., to cover all areas of development.
 - **Communication and Coordination on Discord**
-    - Each team must **establish a Discord group** for all communications.
-    - Teams are required to post **project updates every alternate day** in their Discord group, ensuring consistent progress tracking.
+  - Each team must establish a Discord group for all communications.
+  - Teams are required to post project updates every alternate day in their Discord group, ensuring consistent progress tracking.
 - **Progress Evaluation and Guidance**
-    - **A mentor from Metaschool will be assigned** to each team to provide guidance and oversee progress.
+  - A mentor from Metaschool will be assigned to each team to provide guidance and oversee progress.
 - **Clear Allocation of Responsibilities**
-    - **Assign clear roles within the team** to delegate responsibilities.
+  - Assign clear roles within the team to delegate responsibilities.
 - **Adaptability and Continuous Improvement**
-    - Teams must **accept feedback and be adaptable** to develop their projects successfully.
-    - Use an iterative development approach and **regularly improve based on feedback.**
+  - Teams must accept feedback and be adaptable to develop their projects successfully.
+  - Use an iterative development approach and regularly improve based on feedback.
 
 # Project Grant Guidelines
 
@@ -57,23 +57,23 @@ So, to celebrate all our builders equally, we won't be picking the top 8 project
 
 Too many syllables? Let us break it down for you.
 
-→ All eligible projects developed during Road to Web3 - Cohort 2 will be featured on the **Metaschool Build and Showcase** page.
+- All eligible projects developed during Road to Web3 - Cohort 2 will be featured on the **Metaschool Build and Showcase** page.
 
-→ We will then invite our amazing community to vote for the projects they deem dope.
+- We will then invite our amazing community to vote for the projects they deem dope.
 
-→ The grant amount will be distributed based on the number of votes each project receives. In other words, the more unique votes a project gets, the larger the percentage of the grant it will receive.
+- The grant amount will be distributed based on the number of votes each project receives. In other words, the more unique votes a project gets, the larger the percentage of the grant it will receive.
 
 Now…
 
-→ To vote for a project, a person must be logged into the Metaschool platform and have completed at least one of our courses (skip the [Metamask course](https://metaschool.so/courses/understand-and-setup-metamask-account) please).
+- To vote for a project, a person must be logged into the Metaschool platform and have completed at least one of our courses (skip the [Metamask course](https://metaschool.so/courses/understand-and-setup-metamask-account) please).
 
 Feel free to invite your friends to the platform to support your project.
 
-→ Now that we are implementing Quadratic Voting, it will be much cooler than a simple like/dislike system. With this method of voting, community members can allocate a percentage of their voting power to multiple projects. For example, if a member has a voting power of 100, they can vote for 10 projects by distributing 10% of their voting power to each project. Alternatively, they can vote for just one project by staking all 100% of their voting power on that project. Please note that unique votes hold more value.
+- Now that we are implementing Quadratic Voting, it will be much cooler than a simple like/dislike system. With this method of voting, community members can allocate a percentage of their voting power to multiple projects. For example, if a member has a voting power of 100, they can vote for 10 projects by distributing 10% of their voting power to each project. Alternatively, they can vote for just one project by staking all 100% of their voting power on that project. Please note that unique votes hold more value.
 
-→ The voting window will remain open for a specific amount of days and within that timeframe, feel free to shill your projects and get them votes from our community!
+- The voting window will remain open for a specific amount of days and within that timeframe, feel free to shill your projects and get them votes from our community!
 
-→ To avoid any kind of spamming, we will only give voting rights to those members who enrolled in the Metaschool platform 3-7 days before the voting window.
+- To avoid any kind of spamming, we will only give voting rights to those members who enrolled in the Metaschool platform 3-7 days before the voting window.
 
 Now, for your projects to be eligible for all this, do keep the following rules in mind:
 
@@ -93,4 +93,4 @@ Now, for your projects to be eligible for all this, do keep the following rules 
 
 **Evaluation Criteria**: Projects will be evaluated based on technical merit, innovative application of web3 technologies, and the collaborative effort demonstrated.
 
-**Project Showcase**: At the end of the cohort, teams will present their dApps, emphasizing innovation, functionality, and design. 
+**Project Showcase**: At the end of the cohort, teams will present their dApps, emphasizing innovation, functionality, and design.
