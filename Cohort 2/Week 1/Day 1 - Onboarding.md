@@ -1,36 +1,33 @@
-# Welcome to Road to Web3!
 
-Hey There, This is  Sneha and Sethu. We are your official guides for Road to Web3
+# Onboarding Call
 
-So, you made it to the cohort . Great. Why don't we celebrate it with some good old tweets and posts?
+**Hey There, This is Sneha and Sethu. We are your official guides for Road to Web3.**  
+So, you made it to the cohort. Great. Why don't we celebrate it with some good old tweets and posts?
 
 ## Kickoff: Let's Get Started
 
 ### 1. Connect Your MetaMask Wallet
 
-Let's begin by connecting your MetaMask wallet. On your right, you'll find a quest titled **"Connect MetaMask"** — if it's not immediately visible, click on "View all" to see all available quests. This will set up your wallet to mint your proof of completion NFT.
-
+Let's begin by connecting your MetaMask wallet. On your right, you'll find a quest titled **"Connect MetaMask"** — if it's not immediately visible, click on "View all" to see all available quests. This will set up your wallet to mint your proof of completion NFT.  
 Having trouble? No worries, we've got your back. Check out this course for guidance: [Understanding and Setting up MetaMask](https://metaschool.so/courses/understand-and-setup-metamask-account).
 
 ### 2. Follow Our Twitter
 
-Stay in the loop and follow us on Twitter for the latest updates. Look for the quest **"Follow on Twitter"** to the right of your screen. If you can't see it, remember to click "View all".
+Stay in the loop and follow us on [Twitter](https://twitter.com/0xmetaschool) for the latest updates. While you are at it, do tag along with us [LinkedIn](https://www.linkedin.com/company/0xmetaschool/) too.
 
-![tweet](https://media.giphy.com/media/nAdK7LSIzgkXS/giphy.gif)
+![](https://media4.giphy.com/media/nAdK7LSIzgkXS/giphy.gif?cid=7941fdc6rk1urtq6hrwolckmjnpsf52icdo89atqleg7hfux&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Done with the tweets ? Awesome. Now let's get down to business. 
+Done with the tweets? Awesome. Now let's get down to business.
 
 ### 3. Join Our Discord Community
 
-The next step is to join our Discord server. Introduce yourself and become a part of our vibrant and supportive community!
+The next step is to join our [Discord server](https://discord.gg/6nVEv4vKJ8). Introduce yourself and become a part of our vibrant and supportive community!
 
 ### 4. Post Your Badge on Social Media
 
-If you haven't already shared your participation badge on social media, now's the time! Let everyone know you're on the Road to Web3.
-
-Here's the badge 
-
-![badge](https://metaschool.s3.ap-southeast-1.amazonaws.com/Other/R2W3/C2/Accepted+Badge.gif)
+If you haven't already shared your participation badge on social media, now's the time! Let everyone know you're on the Road to Web3.  
+Here's the badge:
+![Badge](https://metaschool.s3.ap-southeast-1.amazonaws.com/Other/R2W3/C2/You've+been+Accepted.png)
 
 ## Onboarding Call: Don't Miss Out
 
