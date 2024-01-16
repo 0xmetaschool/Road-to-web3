@@ -1,32 +1,40 @@
-# Day 1 on the Road to Web3
+# Day 2 on the Road to Web3: Your Journey Begins
 
-## Welcome to the Beginning of Your Coding Adventure!
+Welcome to the start of your exciting journey into the world of Web3! Let's get you set up and ready to dive into the creation of decentralized applications (dApps) and smart contracts.
 
-![Excited Coding](https://media2.giphy.com/media/1woljDGE7VpIbtli67/giphy.gif?cid=7941fdc6vsy0ir3mvwhtncknzz7zbnshuaef87a4lehnvb2p&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Web3 Journey](https://media.giphy.com/media/PqwqtOLfG19Ti/giphy.gif)
 
-Before you start writing all that oh-so-sweet code and crafting cool dApps, let's gear up properly.
+## Essential Toolkit Checklist
 
-## Essential Tools Checklist
+Before you start coding those innovative dApps, it's crucial to have the right tools in your arsenal. Here's what you need:
 
-- **Code Editor**: Grab something like Visual Studio Code.
-- **Node.js Magic**: Add some backend prowess to your setup.
-- **Web3 Framework**: Consider using Hardhat for your blockchain needs.
+1. **Code Editor - Your Creative Workspace**
+   - **Recommendation**: [Visual Studio Code](https://code.visualstudio.com/)
+   - **Why**: User-friendly, versatile, and a favorite among developers.
+2. **NodeJS - The Engine Behind Your Code**
+   - **Role**: Powers your JavaScript code, essential for building scalable applications.
+   - **Advantage**: Known for speed and efficiency.
+3. **Web3 Framework - The Foundation of dApps**
+   - **Suggestion**: [Hardhat](https://hardhat.org/)
+   - **Benefit**: Simplifies Ethereum development, from smart contracts to testing.
 
-Trust us, you need to prep you PC/laptop with all these things in order to take on all the smart contract crunching and dApp Building that you will be doing.
+## Overcoming Setup Hurdles
 
-![Setup Frustration](https://media4.giphy.com/media/Lx3MfepEpzCPeN1m84/giphy.gif?cid=7941fdc66aa5fyzrva133ci13oyc6ftqzj7nztfj15cwyapt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+Setting up can sometimes be tricky, but with the right resources, you'll be up and running in no time.
 
-## Installation Help
+- **Installing VSCode and NodeJS**:
+  - **Resource**: Check out this easy-to-follow [YouTube tutorial](https://www.youtube.com/watch?v=_LtwT5_zmDs).
+  - **What You'll Learn**: Step-by-step guide on installation and basic setup.
+- **Setting Up Hardhat**:
+  - **Resource**: Hardhat's [Getting Started Guide](https://hardhat.org/hardhat-runner/docs/getting-started) is your go-to manual.
+  - **Outcome**: Understand how to integrate Hardhat into your Web3 projects.
 
-Having Trouble with the installations? Here are a few resources that can help you with it:
+## Sharing Your Progress
 
-- **VS Code & Node.js**: [Install Guide](https://www.youtube.com/watch?v=_LtwT5_zmDs)
-- **Hardhat Setup**: [Hardhat Documentation](https://hardhat.org/hardhat-runner/docs/getting-started)
+As you embark on this journey, sharing your experiences can be incredibly rewarding and insightful.
 
-## Ready, Set, Develop!
+- **Twitter**: Post updates or interesting findings on [Twitter](https://twitter.com/0xmetaschool).
+- **LinkedIn**: Connect and network with other Web3 professionals on [LinkedIn](https://www.linkedin.com/company/0xmetaschool/).
+- **Discord**: Engage with a community of enthusiasts for support and discussion on [Discord](https://discord.com/invite/vbVMUwXWgc).
 
-So, go through the tutorials, set up the development environment and then, let’s talk code!
-
----
-
-Remember, a well-prepared developer is an effective developer. Let's get those environments up and running. Happy coding!
+Remember, every step you take on this journey is a leap towards mastering Web3. Let's get your environment set up and start exploring the endless possibilities of code!
