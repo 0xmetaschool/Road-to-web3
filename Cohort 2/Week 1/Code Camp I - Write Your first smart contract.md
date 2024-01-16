@@ -1,21 +1,34 @@
-# Code Camp 1: Write Your First Smart Contract
+# [Code Camp 1 - Write Your First Smart Contract](https://metaschool.so/courses/writing-your-first-hello-world-contract-in-solidity)
 
-Howdy,
+Welcome back to the Road to Web3 (R2W3) series! It's great to see your enthusiasm as we gear up for an insightful journey into smart contract development.
 
-Sethu here, ready to guide you on your first dive into smart contract development. Along with Sneha and the team, we're thrilled to have you with us!
+### Session Overview 🚀
 
-Before we dive in, a piece of friendly advice:
+Today, we're kicking off with the first code camp of R2W3, focusing entirely on creating a smart contract from scratch.
 
-**Ensure your web3 development environment is prepped and primed. We're about to delve deep into the world of code!**
+🤔 **What's on the Agenda for Developers?**
 
-![Coding Excitement](https://media4.giphy.com/media/S9NByAZebNkSJcPnHx/giphy.gif?cid=7941fdc6bwmkt34cdc31mjucgbfnjdpu4bgdhsdex71wye4k&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- **Smart Contract Development and Deployment**: Dive deep into the mechanics of smart contracts.
+- **Setting Up a Solidity Environment**: Learn to set up your own local development environment for Solidity.
+- **Course Walkthrough**: Follow an instructor-led walkthrough of the "Write Your First Solidity Smart Contract on Ethereum" course.
 
-Welcome to your first Road to Web3 code camp. This session is hands-on and packed with fun as we collaboratively write and deploy our very first smart contract. Proceed, shall we?
+### Prerequisites for Participation ✅
 
+Before we dive in, let's make sure you're fully prepared:
 
-![Calm Down](https://media0.giphy.com/media/y8Mz1yj13s3kI/giphy.gif?cid=7941fdc64le5fvg8m0qt45lb9hrwik27hkkdx5hzoynz5ond&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- **Course Enrollment**: You should be enrolled in our [Smart Contract course](https://metaschool.so/courses/writing-your-first-hello-world-contract-in-solidity).
+- **Essential Installations**: Ensure [NodeJS](https://nodejs.org/en) and [Visual Studio Code](https://code.visualstudio.com/download) are installed on your PC or laptop.
 
-Settle in... we get it... there are folks among you who have written some smart contracts before. Consider this a fun recap! So, sit back and enjoy the ride.
+### For Both Newcomers and Veterans
 
-- **Ready to Start?** Dive into the course here: [Start the Course](https://metaschool.so/courses/writing-your-first-hello-world-contract-in-solidity)
-- **Join the Live Session:** Click to [Join the Coding Camp I](https://plutwo.zoom.us/j/85744570443) for real-time guidance and support.
+Whether you're revisiting smart contracts or exploring them for the first time, this session is tailored to enhance everyone's understanding.
+
+![Smart Contract](https://media0.giphy.com/media/y8Mz1yj13s3kI/giphy.gif?cid=7941fdc64le5fvg8m0qt45lb9hrwik27hkkdx5hzoynz5ond&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+### Stay Connected and Share Your Journey
+
+- **Discord**: Join the conversation and get support on [Discord](https://discord.com/invite/vbVMUwXWgc).
+- **Twitter**: Share your progress and insights on [Twitter](https://twitter.com/0xmetaschool).
+- **LinkedIn**: Network and connect with fellow devs on [LinkedIn](https://www.linkedin.com/company/0xmetaschool/).
+
+Let's embark on this exciting and informative session together. Happy coding! 🎉💻
