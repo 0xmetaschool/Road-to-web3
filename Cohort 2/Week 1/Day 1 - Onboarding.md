@@ -11,9 +11,9 @@ So, you made it to the cohort. Great. Why don't we celebrate it with some good o
 Let's begin by connecting your MetaMask wallet. On your right, you'll find a quest titled **"Connect MetaMask"** — if it's not immediately visible, click on "View all" to see all available quests. This will set up your wallet to mint your proof of completion NFT.  
 Having trouble? No worries, we've got your back. Check out this course for guidance: [Understanding and Setting up MetaMask](https://metaschool.so/courses/understand-and-setup-metamask-account).
 
-### 2. Follow Our Twitter
+### 2. Follow us on Twitter
 
-Stay in the loop and follow us on [Twitter](https://twitter.com/0xmetaschool) for the latest updates. While you are at it, do tag along with us [LinkedIn](https://www.linkedin.com/company/0xmetaschool/) too.
+Stay in the loop and follow us on [Twitter](https://twitter.com/0xmetaschool) for the latest updates. While you are at it, do tag along with us on [LinkedIn](https://www.linkedin.com/company/0xmetaschool/) too.
 
 ![](https://media4.giphy.com/media/nAdK7LSIzgkXS/giphy.gif?cid=7941fdc6rk1urtq6hrwolckmjnpsf52icdo89atqleg7hfux&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
